@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.tempuri</groupId>
-	<artifactId>INGWrapperWsdlGenerator</artifactId>
+	<artifactId>soap-api-wsdl-generator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>INGWrapperWsdlGenerator</name>
+	<name>soap-api-wsdl-generator</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -16,7 +16,7 @@
 	<!-- run / run configurations / goals : clean generate-test-sources  -->
 	
 	<build>
-	<finalName>INGWrapper</finalName>
+	<finalName>soap-api-wsdl-generator</finalName>
 			<plugins>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
