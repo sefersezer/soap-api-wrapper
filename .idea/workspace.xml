@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8b0433-49db-4db7-ac82-4e23e1e8d1c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/com/testClasses/Nesne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/testClasses/NesneProperty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/testing/BTree$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/testing/BTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/testing/BTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/testing/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/DQPigeonService.wsdl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring/webservice/DQPigeonResponseImpl.java" beforeDir="false" />
+    <list default="true" id="0bf01ef4-59b2-43ad-abba-e941def69ea3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soap-api-wrapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/soap-api-wrapper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/DataQuality.java" beforeDir="false" afterPath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/DataQuality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/org/tempuri/DQPigeonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/org/tempuri/DQPigeonService.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/soap-api-wrapper/target/" />
+    <ignored path="$PROJECT_DIR$/soap-api-wsdl-generator/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +20,118 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BTree.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testing/BTree.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2187">
+              <folding>
+                <element signature="e#0#3670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testing/Main.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-181">
+              <folding>
+                <element signature="e#0#1819#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NesneProperty.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testClasses/NesneProperty.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nesne.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testClasses/Nesne.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#951#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DQPigeonService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/org/tempuri/DQPigeonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataQuality.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/DataQuality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/soap-api-wrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/DataQuality.java" />
+        <option value="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/Address.java" />
+        <option value="$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/org/tempuri/DQPigeonService.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="etiya-artifactory" />
+      </list>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -47,19 +148,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="INGWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IngWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IngWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soap-api-wsdl-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tempuri" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -68,9 +203,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DCE/backend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,6 +236,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -132,17 +274,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bb8b0433-49db-4db7-ac82-4e23e1e8d1c9" name="Default" comment="" />
-      <created>1525436597327</created>
+      <changelist id="0bf01ef4-59b2-43ad-abba-e941def69ea3" name="Default" comment="" />
+      <created>1525863504295</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525436597327</updated>
-      <workItem from="1525436604477" duration="785000" />
+      <updated>1525863504295</updated>
+      <workItem from="1525863505545" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="785000" />
+    <option name="totallyTimeSpent" value="370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-489" width="1936" height="1066" extended-state="6" />
@@ -156,10 +298,9 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -169,10 +310,12 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Web" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +323,85 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wrapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/org/tempuri/DQPigeonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/DataQuality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wsdl-generator/src/main/java/com/wrapper/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testClasses/NesneProperty.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testClasses/Nesne.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testing/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <folding>
+            <element signature="e#0#1819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap-api-wrapper/bin/com/testing/BTree.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2187">
+          <folding>
+            <element signature="e#0#3670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -5,9 +5,20 @@ import javax.xml.bind.annotation.XmlAccessorType;
 
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Address {
-	private String ULKE, IL, ILCE, LOKASYON, MAHALLE, CADDE, SOKAK,
-			BINADAIRENO, BINABLOK, DAIRENO, POSTA_KOD, DEPTH;
-	private double GEOCODE_DIKEY, GEOCODE_YATAY;
+	private String ULKE;
+	private String IL;
+	private String ILCE;
+	private String LOKASYON;
+	private String MAHALLE;
+	private String CADDE;
+	private String SOKAK;
+	private String BINADAIRENO;
+	private String BINABLOK;
+	private String DAIRENO;
+	private String POSTA_KOD;
+	private String DEPTH;
+	private double GEOCODE_DIKEY;
+	private double GEOCODE_YATAY;
 	private int SKOR;
 	private double TAMAMLANMA_ORANI;
 
